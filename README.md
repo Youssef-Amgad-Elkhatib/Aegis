@@ -1,6 +1,6 @@
 # 🫀 Aegis: Clinical-Grade Cardiovascular Risk Predictor
 
-CardioSense is a machine learning pipeline designed to predict cardiovascular disease risk based on routine medical vitals (Age, Height, Weight, Blood Pressure, Cholesterol, etc.). 
+Aegis is a machine learning pipeline designed to predict cardiovascular disease risk based on routine medical vitals (Age, Height, Weight, Blood Pressure, Cholesterol, etc.). 
 
 While many public notebooks claim 80-90% accuracy on this dataset by exploiting data leakage and biological typos, **Aegis focuses on mathematical integrity, clinical safety, and maximizing Recall (Sensitivity)**. The model achieves a robust **73.46% real-world accuracy**—the theoretical limit (Bayes Error Rate) of this dataset given the vast amount of identical overlapping patient profiles.
 
